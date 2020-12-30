@@ -1,2 +1,2 @@
 var chocolateBars = ["snickers", "hundred grand","kitkat", "skittles"];
-var chocolateBars.unshift(ferrero);
+var chocolateBars.unshift(ferrero)
